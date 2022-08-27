@@ -1,3 +1,3 @@
 # Kcahtod
 
-Codebase for Ellipsis Tech series hackathon
+Codebase for Ellipsis-Goldman Sachs hackathon
