@@ -22,5 +22,5 @@ Tech stack used: AWS Lambda, S3 Bucket, Amazon EC2, Node.js, Amazon DynamoDB
 Pitch Deck: https://docs.google.com/presentation/d/1aPc9wU35ZEv7mMFp_rg-ahmA_vPMQ7e0oCtKeeUB9gg/edit#slide=id.g14875f0dfb4_0_3943
 
 
-Pitch Video: https://docs.google.com/presentation/d/1aPc9wU35ZEv7mMFp_rg-ahmA_vPMQ7e0oCtKeeUB9gg/edit#slide=id.g14875f0dfb4_0_3943
+Pitch Video: https://drive.google.com/file/d/19ylvicMGRH6ELyp2a0brGsmBM7POgEYt/view?usp=sharing
 
