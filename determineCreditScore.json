@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "userid": 3941086,
+      "name": "handsomeBoyGerald",
+      "age": 24,
+      "employmentStatus": "unemployed",
+      "maritalStatus": "single",
+      "householdIncome": 0,
+      "householdSize": 5
+    },
+    {
+      "userid": 3520602,
+      "name": "bigBoyBrandon",
+      "age": 25,
+      "employmentStatus": "employed",
+      "maritalStatus": "married",
+      "householdIncome": 10000,
+      "householdSize": 5
+    },
+    {
+      "userid": 4951815,
+      "name": "tallBoyCaleb",
+      "age": 24,
+      "employmentStatus": "employed",
+      "maritalStatus": "married",
+      "householdIncome": 10000,
+      "householdSize": 4
+    }
+  ]
+}
