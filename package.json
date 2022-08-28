@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "receive-msg",
   "version": "1.0.0",
   "description": "",
@@ -12,5 +13,9 @@
   "dependencies": {
     "aws-sdk": "^2.1204.0",
     "express": "^4.18.1"
+=======
+  "dependencies": {
+    "aws-sdk": "^2.1204.0"
+>>>>>>> 511ee87 (add pitch video and pitch deck)
   }
 }
